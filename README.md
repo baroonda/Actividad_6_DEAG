@@ -44,6 +44,6 @@ Actividad_6_Validacion_Modelos.ipynb: Notebook de experimentación con el códig
 
 (Nota: El dataset creditcard.csv no se incluye en el repositorio por restricciones de tamaño, pero puede descargarse desde Kaggle).
 
-Autor: baroonda
+Autor: Diego Alejandre
 
 Módulo: Gestión de Proyectos de Inteligencia Artificial
